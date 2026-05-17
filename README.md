@@ -115,10 +115,6 @@ bash ./g2ray.sh
 
 ---
 
-## 🛠️ Architecture Flow
-
----
-
 ## 📁 Repository Structure
 
 ```
